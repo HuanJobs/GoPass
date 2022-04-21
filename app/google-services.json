@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "897885058505",
+    "project_id": "gopass-d73c7",
+    "storage_bucket": "gopass-d73c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897885058505:android:a94fc49f3fb72535b2a418",
+        "android_client_info": {
+          "package_name": "com.example.gopass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897885058505-oe3b1guej74oqfb8dqqagre2ff261qqp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9oLjuqN82-OUqpm-yQbGpqFOMBxU14c0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897885058505-oe3b1guej74oqfb8dqqagre2ff261qqp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
